@@ -5,4 +5,4 @@ Završni rad na Geotehničkom fakultetu u Varaždinu.
 
 Link: https://ihip.github.io/fstrelec-Laplace/
 
-Github mentora:https://github.com/ihip
+Github mentora: https://github.com/ihip
