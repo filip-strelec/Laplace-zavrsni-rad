@@ -1,5 +1,6 @@
 # Laplace_zavrsni_rad
-Numeričko rješavanje i vizualizacija rješenja Laplaceove jednadžbe.
+Numeričko rješavanje i vizualizacija rješenja Laplaceove jednadžbe.<br><br/>
 Završni rad na Geotehničkom fakultetu u Varaždinu.
 
-Kod moguće isprobati na: https://ihip.github.io/fstrelec-Laplace/
+Link: <a href="https://ihip.github.io/fstrelec-Laplace/" target="_blank">Vizualizacija Laplace</a> 
+
