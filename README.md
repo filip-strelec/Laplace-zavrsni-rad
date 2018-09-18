@@ -2,5 +2,7 @@
 Numeričko rješavanje i vizualizacija rješenja Laplaceove jednadžbe.<br><br/>
 Završni rad na Geotehničkom fakultetu u Varaždinu.
 
+
 Link: https://ihip.github.io/fstrelec-Laplace/
 
+Github mentora:https://github.com/ihip
