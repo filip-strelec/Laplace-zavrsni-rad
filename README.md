@@ -3,7 +3,7 @@ Numeričko rješavanje i vizualizacija rješenja Laplaceove jednadžbe.<br><br/>
 Završni rad na Geotehničkom fakultetu u Varaždinu.
 
 
-Link: https://filip4428.github.io/Laplace-zavrsni-rad/
+Link: https://filip-strelec.github.io/Laplace-zavrsni-rad/
 
 Upute za korištenje programa: https://github.com/filip4428/Laplace_zavrsni_rad/blob/master/LaplacePDF.pdf (5. poglavlje)
 
